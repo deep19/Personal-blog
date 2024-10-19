@@ -1,3 +1,23 @@
+# What is the true utility of a memory system like Anki for conceptual understanding
+
+Memory systems like flashcards can be used not just for memorizing facts and study aspects of  subjects like a new language or medicine or chemistry where you need to remember a lot of facts, but deeper conceptual ideas as well.
+
+There are 3 major aspects here:
+1. Long term retention
+2. Forcing you to form good questions which helps build a deeper relationship with the subject (one of the reasons why sharing decks or using someone else's deck is not useful)
+3. Internalised understanding leads to flow state which is not possible if you have to disrupt yourself to look for the information in an external system
+
+Long term retention also gives you the additional drive that helps foster motivation which is an important element in learning. If I know I won't remember much of the subject as it's not something I use day-to-day, I'm less likely to have the drive to start it. Having the confidence that it'll be retained in long term memory can be crucial. 
+Systems like Anki have a small detail which make them much more efficient than traditional flashcards -- they use a schedule based on how difficult or easy is it for you to remember the fact or idea. This itself causes an efficiency of the system reducing life long retention time of a fact or idea from 2 hours per card to 6-7 minutes per card. If an idea seems important enough to spend 10 mins cumulative of your life, you can out it into Anki.
+
+Condensing knowledge into bite sized blocks can help develop a new outlook towards the subject. Having multiple pieces of the whole retained in memory can help you see the combined picture in important ways much more conducive to learning than conventional reading. The atomic knowledge blocks can be combined in unexpected ways again fostering deeper understanding. This is the core of the process and has a high learning curve.
+To quote Nielsen:
+>*Anki skills concretely instantiate your theory of how you understand; developing those skills will help you understand better
+
+Internalized understanding enables speed in associative thought, an ability to rapidly try out many combinations of ideas, and to intuit patterns, in ways not possible if you need to keep laboriously looking up information. 
+Basically memory can really help you to be in flow state while pursuing your creative task at hand. The task can be cooking, music, programming -- anything. By memory I mean internalised understanding of the elements of your task. For cooking, it'd be an internalised understanding of the recipe and the ingredients used. For programming, it can be the library API that's being used intensively in your project. For music, it can be the scale of your musical piece. That's one of the arguments of the utility of such memory systems even when this information can be put in some notebook and retrieved easily --  it'll disrupt the flow state. Having an internalised understanding of these elements will help you achieve and stay in the flow state.
+
+
 # Michael Nielsen - Augmenting long term memory
 
  Reference: [https://augmentingcognition.com/ltm.html](https://augmentingcognition.com/ltm.html)
