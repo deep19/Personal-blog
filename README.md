@@ -1,6 +1,6 @@
 # What is the true utility of a memory system like Anki for conceptual understanding
 
-Memory systems like flashcards can be used not just for memorizing facts and study aspects of  subjects like a new language or medicine or chemistry where you need to remember a lot of facts, but deeper conceptual ideas as well.
+Memory systems like flashcards can be used not just for memorizing facts and study aspects of  subjects like a new language or medicine or chemistry where you need to remember a lot of facts, but deeper conceptual ideas as well. An example of this process: [https://cognitivemedium.com/srs-mathematics](https://cognitivemedium.com/srs-mathematics)
 
 There are 3 major aspects here:
 1. Long term retention
@@ -15,7 +15,7 @@ To quote Nielsen:
 >*Anki skills concretely instantiate your theory of how you understand; developing those skills will help you understand better
 
 Internalized understanding enables speed in associative thought, an ability to rapidly try out many combinations of ideas, and to intuit patterns, in ways not possible if you need to keep laboriously looking up information. 
-Basically memory can really help you to be in flow state while pursuing your creative task at hand. The task can be cooking, music, programming -- anything. By memory I mean internalised understanding of the elements of your task. For cooking, it'd be an internalised understanding of the recipe and the ingredients used. For programming, it can be the library API that's being used intensively in your project. For music, it can be the scale of your musical piece. That's one of the arguments of the utility of such memory systems even when this information can be put in some notebook and retrieved easily --  it'll disrupt the flow state. Having an internalised understanding of these elements will help you achieve and stay in the flow state.
+Basically memory can really help you to be in flow state while pursuing your creative task at hand. The task can be cooking, music, programming -- anything. By memory I mean internalised understanding of the elements of your task. For cooking, it'd be an internalised understanding of the recipe and the ingredients used. For programming, it can be the library API that's being used intensively in your project. For music, it can be the scale of your musical piece. Again, it's not just about memorising these elements but having a deeper understanding of it which is retained in the long term memory. That's one of the arguments of the utility of such memory systems even when this information can be put in some notebook and retrieved easily --  it'll disrupt the flow state. Having an internalised understanding of these elements will help you achieve and maintain the flow state.
 
 
 # Michael Nielsen - Augmenting long term memory
